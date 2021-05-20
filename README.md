@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![Ftshijt's GitHub stats](https://github-readme-stats.vercel.app/api?username=ftshijt&count_private=true&show_icons=true&theme=Gradient)
-](https://github.com/anuraghazra/github-readme-stats)
+](https://github.com/ftshijt)
 
-[![Top Langs for Ftshijt](https://github-readme-stats.vercel.app/api/top-langs/?username=ftshijt&layout=compact&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs for Ftshijt](https://github-readme-stats.vercel.app/api/top-langs/?username=ftshijt&layout=compact&theme=Gradient)](https://github.com/ftshijt)
