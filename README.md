@@ -21,3 +21,6 @@ I'm looking for collaborators on our [Muskits project](https://github.com/SJTMus
 ](https://github.com/ftshijt)
 
 [![Top Langs for Ftshijt](https://github-readme-stats.vercel.app/api/top-langs/?username=ftshijt&layout=compact&theme=Gradient)](https://github.com/ftshijt)
+
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=snfQFFTdIZLSkoC2yAgQsE8RMTp3la24ClaJVVVZlsQ&cl=ffffff&w=a"></script>
