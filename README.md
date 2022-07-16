@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm looking for collaborators on our [Muskits project](https://github.com/SJTMusicTeam/Muskits) which now focus on the singing voice synthesis (would like to extend to music generation, lyrics generation, and accompany generation problems). Feel free to reach me at ftshijt \[at\] gmail.com for details.
+I'm looking for collaborators on our [Muskits project](https://github.com/SJTMusicTeam/Muskits) which now focus on the singing voice synthesis and conversion (would like to extend to music generation, lyrics generation, and accompany generation problems). Feel free to reach me at ftshijt \[at\] gmail.com for details.
 
 [![Ftshijt's GitHub stats](https://github-readme-stats.vercel.app/api?username=ftshijt&count_private=true&show_icons=true&theme=Gradient&include_all_commits=true)
 ](https://github.com/ftshijt)
