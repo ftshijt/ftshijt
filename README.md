@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm looking for collaborators on our [Muskits project](https://github.com/espnet/espnet.git) (now merged to ESPnet) which focus on the singing voice and music processing. Feel free to reach me at ftshijt \[at\] gmail.com for details.
 
-[![Ftshijt's GitHub stats](https://github-readme-stats.vercel.app/api?username=ftshijt&count_private=true&show_icons=true&theme=Gradient&include_all_commits=true&hide_title=false)
+[![Ftshijt's GitHub stats](https://github-readme-stats.vercel.app/api?username=ftshijt&count_private=true&show_icons=true&theme=Gradient&include_all_commits=true&hide_title=false&cache_seconds=21600)
 ](https://github.com/ftshijt)
 
 [![Top Langs for Ftshijt](https://github-readme-stats.vercel.app/api/top-langs/?username=ftshijt&layout=compact&theme=Gradient)](https://github.com/ftshijt)
